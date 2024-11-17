@@ -7,7 +7,7 @@ using namespace std;
      {
          //cout<<i;
         // cout<<char(i);
-        cout<<int(ch);
+        cout<<int(ch)<<endl;
      }
  }
 
